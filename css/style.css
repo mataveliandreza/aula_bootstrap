@@ -1,0 +1,27 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: lightcyan;
+}
+
+.who-we-are {
+    background-color: lightsteelblue;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.where-doyou-want-togo{
+    background-color: lavender;
+    color: rgb(255, 255, 255);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
